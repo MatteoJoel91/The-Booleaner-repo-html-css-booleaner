@@ -3,7 +3,7 @@
     background-repeat: repeat-x;
     background-color: cornflowerblue;
     background-size: 250px;
-    width: 100%;
+    width: 1050px;
     height: 100px;
 }
 .logo{
@@ -29,8 +29,48 @@
 }
 .testo4{
     margin-top: 0px;
-    
-}
-.evidenziato{
+   } 
+ .evidenziato{
     background-color: yellow;
+}   
+.paragrafo1{
+    width: 1050px;
+}
+
+.tabella2{
+    background-color: rgb(179, 235, 245);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 1050px;
+}
+.row1{
+    background-color:rgb(64, 165, 224);
+    width: 1050px;
+}
+.rowleft{
+    display: inline-block;
+    width: 30%;
+}
+.rowcenter{
+    display: inline-block;
+    width: 50%;
+}
+.rowright{
+    display: inline-block;
+    width: 70%;
+}
+.oggetto{
+    background-color: rgb(64, 165, 224);
+    color: white;
+    font-weight: 700;
+}
+.oggetto2{
+    background-color: rgb(64, 165, 224);
+    color: white;
+    font-weight: 700;
+}
+.oggetto3{
+    background-color: rgb(64, 165, 224);
+    color: white;
+    font-weight: 700;
 }
