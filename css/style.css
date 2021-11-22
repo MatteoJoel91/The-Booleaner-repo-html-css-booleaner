@@ -43,38 +43,62 @@
     margin-bottom: 20px;
     width: 1050px;
 }
-.esterno1{
+.row1{
+    background-color:rgb(64, 165, 224);
     width: 1050px;
 }
-.interno1{
+.rowleft{
+    display: inline-block;
+    width: 30%;
+}
+.rowcenter{
+    display: inline-block;
+    width: 25%;
+}
+.rowright{
+    display: inline-block;   
+}
+.oggetto{
     background-color: rgb(64, 165, 224);
     color: white;
     font-weight: 700;
 }
-.esterno2{
-    width: 1050px;
-    height: 30px;
-}
-.interno2{
+.oggetto2{
     background-color: rgb(64, 165, 224);
     color: white;
     font-weight: 700;
 }
-.esterno3{
-    width: 1050px;
-    height: 30px;
-}
-.interno3{
+.oggetto3{
     background-color: rgb(64, 165, 224);
     color: white;
     font-weight: 700;
 }
-.esterno4{
+.row2{
+    background-color:rgb(169, 216, 247);
     width: 1050px;
-    height: 30px;
+    height: 50px;
 }
-.interno4{
-    background-color: rgb(64, 165, 224);
-    color: white;
+.oggetto4{
+    background-color: rgb(169, 216, 247);
     font-weight: 700;
+    width: 20px;
+}
+.oggetto5{
+    background-color: rgb(169, 216, 247);
+    font-weight: 700;
+}
+.oggetto6{
+    background-color: rgb(169, 216, 247);
+    font-weight: 700;
+}
+.rowleft1{
+    display: inline-block;
+    width: 30%;
+}
+.rowcenter1{
+    display: inline-block;
+    width: 25%;
+}
+.rowright1{
+    display: inline-block;   
 }
