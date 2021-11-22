@@ -1,3 +1,4 @@
+/* sfondo + logo? */
 .sfondo{
     background-image: url(../img/pattern.png);
     background-repeat: repeat-x;
@@ -11,6 +12,8 @@
     height: 150px;
     margin-left: 80px;
 }
+
+/* modifiche titolo */
 .testo1{
     margin-bottom: 0px;
 }
@@ -36,6 +39,8 @@
 .paragrafo1{
     width: 1050px;
 }
+
+/* modifiche tabella */
 .table1{
     border-collapse: collapse;
     width: 1050px;
@@ -47,16 +52,25 @@
 }
 .riga2{
     background-color: rgb(137, 206, 238);
+
 }
 .riga3{
     background-color:white;
+
 }
 .riga4{
     background-color: rgb(137, 206, 238);
+
 }
 .paragrafo2{
     width: 1050px;
 }
 .finepag{
     color: darkgray;
+}
+.uno{
+    width: 250px;
+}
+.due{
+    width: 250px;
 }
