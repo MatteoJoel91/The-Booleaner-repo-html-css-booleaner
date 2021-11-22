@@ -37,68 +37,17 @@
     width: 1050px;
 }
 
-.tabella2{
-    background-color: rgb(179, 235, 245);
-    margin-top: 20px;
-    margin-bottom: 20px;
-    width: 1050px;
-}
-.row1{
-    background-color:rgb(64, 165, 224);
-    width: 1050px;
-}
-.rowleft{
-    display: inline-block;
-    width: 30%;
-}
-.rowcenter{
-    display: inline-block;
-    width: 25%;
-}
-.rowright{
-    display: inline-block;   
-}
-.oggetto{
+.riga1{
     background-color: rgb(64, 165, 224);
     color: white;
     font-weight: 700;
 }
-.oggetto2{
-    background-color: rgb(64, 165, 224);
-    color: white;
-    font-weight: 700;
+.riga2{
+    background-color: rgb(137, 206, 238);
 }
-.oggetto3{
-    background-color: rgb(64, 165, 224);
-    color: white;
-    font-weight: 700;
+.riga3{
+    background-color:white;
 }
-.row2{
-    background-color:rgb(169, 216, 247);
-    width: 1050px;
-    height: 50px;
-}
-.oggetto4{
-    background-color: rgb(169, 216, 247);
-    font-weight: 700;
-    width: 20px;
-}
-.oggetto5{
-    background-color: rgb(169, 216, 247);
-    font-weight: 700;
-}
-.oggetto6{
-    background-color: rgb(169, 216, 247);
-    font-weight: 700;
-}
-.rowleft1{
-    display: inline-block;
-    width: 30%;
-}
-.rowcenter1{
-    display: inline-block;
-    width: 25%;
-}
-.rowright1{
-    display: inline-block;   
+.riga4{
+    background-color: rgb(137, 206, 238);
 }
