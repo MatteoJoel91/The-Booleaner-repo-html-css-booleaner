@@ -76,20 +76,19 @@
 .row2{
     background-color:rgb(169, 216, 247);
     width: 1050px;
+    height: 50px;
 }
 .oggetto4{
     background-color: rgb(169, 216, 247);
-    color: white;
     font-weight: 700;
+    
 }
 .oggetto5{
     background-color: rgb(169, 216, 247);
-    color: white;
     font-weight: 700;
 }
 .oggetto6{
     background-color: rgb(169, 216, 247);
-    color: white;
     font-weight: 700;
 }
 .rowleft1{
