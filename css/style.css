@@ -36,7 +36,11 @@
 .paragrafo1{
     width: 1050px;
 }
-
+.table1{
+    border-collapse: collapse;
+    border-spacing: 10px;
+    width: 1050px;
+}
 .riga1{
     background-color: rgb(64, 165, 224);
     color: white;
@@ -50,4 +54,10 @@
 }
 .riga4{
     background-color: rgb(137, 206, 238);
+}
+.paragrafo2{
+    width: 1050px;
+}
+.finepag{
+    color: darkgray;
 }
