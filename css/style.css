@@ -3,13 +3,13 @@
     background-repeat: repeat-x;
     background-color: cornflowerblue;
     background-size: 250px;
-    width: 1050px;
+    width: 1200px;
     height: 100px;
 }
 .logo{
     width: 150px;
     height: 150px;
-    margin-left: 5px;
+    margin-left: 80px;
 }
 .testo1{
     margin-bottom: 0px;
