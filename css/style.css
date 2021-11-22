@@ -43,62 +43,38 @@
     margin-bottom: 20px;
     width: 1050px;
 }
-.row1{
-    background-color:rgb(64, 165, 224);
+.esterno1{
     width: 1050px;
 }
-.rowleft{
-    display: inline-block;
-    width: 30%;
-}
-.rowcenter{
-    display: inline-block;
-    width: 25%;
-}
-.rowright{
-    display: inline-block;   
-}
-.oggetto{
+.interno1{
     background-color: rgb(64, 165, 224);
     color: white;
     font-weight: 700;
 }
-.oggetto2{
-    background-color: rgb(64, 165, 224);
-    color: white;
-    font-weight: 700;
-}
-.oggetto3{
-    background-color: rgb(64, 165, 224);
-    color: white;
-    font-weight: 700;
-}
-.row2{
-    background-color:rgb(169, 216, 247);
+.esterno2{
     width: 1050px;
-    height: 50px;
+    height: 30px;
 }
-.oggetto4{
-    background-color: rgb(169, 216, 247);
-    font-weight: 700;
-    
-}
-.oggetto5{
-    background-color: rgb(169, 216, 247);
+.interno2{
+    background-color: rgb(64, 165, 224);
+    color: white;
     font-weight: 700;
 }
-.oggetto6{
-    background-color: rgb(169, 216, 247);
+.esterno3{
+    width: 1050px;
+    height: 30px;
+}
+.interno3{
+    background-color: rgb(64, 165, 224);
+    color: white;
     font-weight: 700;
 }
-.rowleft1{
-    display: inline-block;
-    width: 30%;
+.esterno4{
+    width: 1050px;
+    height: 30px;
 }
-.rowcenter1{
-    display: inline-block;
-    width: 25%;
-}
-.rowright1{
-    display: inline-block;   
+.interno4{
+    background-color: rgb(64, 165, 224);
+    color: white;
+    font-weight: 700;
 }
