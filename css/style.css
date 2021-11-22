@@ -53,11 +53,10 @@
 }
 .rowcenter{
     display: inline-block;
-    width: 50%;
+    width: 25%;
 }
 .rowright{
-    display: inline-block;
-    width: 70%;
+    display: inline-block;   
 }
 .oggetto{
     background-color: rgb(64, 165, 224);
@@ -73,4 +72,34 @@
     background-color: rgb(64, 165, 224);
     color: white;
     font-weight: 700;
+}
+.row2{
+    background-color:rgb(169, 216, 247);
+    width: 1050px;
+}
+.oggetto4{
+    background-color: rgb(169, 216, 247);
+    color: white;
+    font-weight: 700;
+}
+.oggetto5{
+    background-color: rgb(169, 216, 247);
+    color: white;
+    font-weight: 700;
+}
+.oggetto6{
+    background-color: rgb(169, 216, 247);
+    color: white;
+    font-weight: 700;
+}
+.rowleft1{
+    display: inline-block;
+    width: 30%;
+}
+.rowcenter1{
+    display: inline-block;
+    width: 25%;
+}
+.rowright1{
+    display: inline-block;   
 }
